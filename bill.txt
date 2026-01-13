@@ -1,0 +1,8 @@
+--- BILL DETAILS ---
+Item        Qty     Price
+milk          2        60
+bread         1        25
+cheese        1       150
+rice          1        50
+
+Total bill amount: 285
